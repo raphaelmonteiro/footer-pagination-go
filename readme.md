@@ -6,6 +6,8 @@ For the execution of the test it is necessary to inform some parameters. The exp
 
 ### Execute
 ```
+$ git clone https://github.com/raphaelmonteiro/footer-pagination-go.git
+$ cd ./footer-pagination-go
 $ go test
 $ current_page=4 total_pages=10 boundaries=2 around=2 go run main.go
 ```
