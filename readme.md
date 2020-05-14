@@ -7,5 +7,5 @@ For the execution of the test it is necessary to inform some parameters. The exp
 ### Execute
 ```
 $ go test
-$ current_page=5 total_pages=10 boundaries=2 around=2 go run main.go
+$ current_page=4 total_pages=10 boundaries=2 around=2 go run main.go
 ```
